@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  background-image: linear-gradient(to bottom right, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 350px;
+  width: 400px;
+  align-items: center;
+  border-radius: 12px;
+  font-family: 'Roboto';
+}
+
+.paragraph1 {
+  color: #334155;
+}
+
+.btn {
+  background-color: #ffffff;
+  width: 120px;
+  height: 30px;
+  border-radius: 4px;
+}
+
+.paragraph2 {
+  color: #334155;
+  font-size: 12px;
+}
